@@ -1,1 +1,3 @@
-# Single_cell_RNAseq___WIP
+# snRNAseq
+
+snRNAseq analysis using STARsolo and Alevin-fry.
